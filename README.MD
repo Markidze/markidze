@@ -1,3 +1,3 @@
-Welcome dudies!
-|to my page|
+Welcome !
+ | to my page | 
 i love ice cream
